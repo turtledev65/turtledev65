@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @turtledev65
-- 👀 I’m interested in programming, game development, robotics
-- 🌱 I’m currently learning java
+- 👀 I’m interested in programming, game development, web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on programming games
 - 📫 How to reach me: email me at turtledev65@gmail.com
 
